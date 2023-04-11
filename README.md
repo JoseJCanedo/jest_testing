@@ -51,6 +51,4 @@ $ yarn test -u
 ```
 I cannot possibly cover all the testing scenarios here for your specific needs, but you might end up having to test hooks, lifecycle components, API calls, etc. The documentation for testing some of these different objects can be found with the product used [React Testing Library](https://testing-library.com/docs/react-testing-library/api).
 
----
-# Node + Express Jest Testing
 
